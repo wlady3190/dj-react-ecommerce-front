@@ -1,0 +1,10 @@
+npm i react-router-dom / react-router-bootstrap
+en app.js 
+import {
+BrowserRouter as Router, Route
+} from "react-router-dom";
+
+Los links deben ir x ej <LinkContainer to='/cart'>
+
+Para conectar back con front
+npm install axios
